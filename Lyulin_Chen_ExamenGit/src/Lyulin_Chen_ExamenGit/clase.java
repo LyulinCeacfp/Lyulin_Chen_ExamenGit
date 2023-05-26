@@ -1,6 +1,6 @@
 package Lyulin_Chen_ExamenGit;
 
-class clase {
+public class clase {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,5 +10,6 @@ class clase {
 		System.out.println("Hola mundo");
 		
 	}
+	public int valor = 10;
 
 }
