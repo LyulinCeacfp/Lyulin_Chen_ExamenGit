@@ -18,7 +18,7 @@ public class clase {
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo");
-		System.out.println("Hola mundo, valor es: "+valosfsagfsagasr);
+		System.out.println("Hola mundo, valor es: "+);
 	}public static int valor = 10;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
