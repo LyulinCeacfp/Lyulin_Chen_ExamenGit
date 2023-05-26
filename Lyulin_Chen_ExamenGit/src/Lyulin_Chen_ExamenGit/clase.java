@@ -8,7 +8,7 @@ public class clase {
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo");
-		System.out.println("Hola mundo, valor es: "+valor);
+		System.out.println("Hola mundo, valor es: "+valosfsagfsagasr);
 	}
 	
 	
